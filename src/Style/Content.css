@@ -1,0 +1,48 @@
+.editable-row .ant-form-explain {
+  position: absolute;
+  font-size: 12px;
+  margin-top: -4px;
+}
+
+.icon {
+  font-size: 1.2rem;
+}
+.element.style{
+  max-width: 100vw;
+}
+.icon-div{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.ant-table-pagination.ant-pagination{
+  margin: 1rem;
+}
+.ant-table-wrapper{
+  width: 100%;
+  min-height: 70vh;  
+}
+.content{
+  margin: 2rem;
+  background: #fff;
+}
+.ant-form-inline{
+  padding: 1rem;
+}
+/* .ant-form-item{
+  margin-bottom: 0;
+}
+.ant-form-item-children > * {
+  margin: 0 0.2rem;
+} */
+.ant-form-item{
+  margin-bottom: 0;
+}
+.ant-form-item-children{
+  padding: 0.3rem 0;
+  display: flex;
+  justify-content: center;
+}
+.ant-form-item-children > * {
+  margin: 0 0.2rem;
+}
